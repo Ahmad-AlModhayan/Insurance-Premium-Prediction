@@ -48,10 +48,8 @@ where:
 
 ## Usage
 
-Run the main script:
-```bash
-python insurance_premium_prediction.py
-```
+Run the notebook `insurance_premium_prediction.ipynb`
+
 
 The script will:
 1. Load and preprocess the data
