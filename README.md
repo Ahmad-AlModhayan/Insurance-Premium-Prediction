@@ -41,9 +41,10 @@ where:
    seaborn
    scikit-learn
    ```
-3. Place your data files in the `data/` directory:
+3. Place the data files in the `data/` directory:
    - train.csv
    - test.csv
+   you can get the data from [Kaggle](https://www.kaggle.com/competitions/playground-series-s4e12/data)
 
 ## Usage
 
